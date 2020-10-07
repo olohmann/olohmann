@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## 👋 Hey I'm Oliver! 
+
+My day job is as a Cloud Solution Architect with Microsoft.
+
+## Let's connect!
+
+Chat with me on Twitter (@_olli_) or connect on LinkedIn!
+<p align="left">
+	<a href="https://twitter.com/_olli_"><img src="https://img.shields.io/twitter/follow/_olli_?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/oliverlohmann"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 <!--
 **olohmann/olohmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
