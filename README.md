@@ -2,7 +2,7 @@
 
 ## 👋 Hey I'm Oliver! 
 
-My day job is as a Cloud Solution Architect with Microsoft.
+As my day job I work as Global Account Technology Strategist with Microsoft.
 
 ## Let's connect!
 
