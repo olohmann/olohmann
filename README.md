@@ -2,7 +2,7 @@
 
 ## 👋 Hey I'm Oliver! 
 
-As my day job I work as Global Account Technology Strategist with Microsoft.
+As my day job I work as a Global Account Technology Strategist at Microsoft.
 
 ## Let's connect!
 
