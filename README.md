@@ -6,7 +6,7 @@ As my day job I work as an Cloud Solution Architect Manager at Microsoft.
 
 ## Let's connect!
 
-Chat with me on Twitter (@_olli_) or connect on LinkedIn!
+Chat with me on Twitter (@\_olli\_) or connect on LinkedIn!
 <p align="left">
 	<a href="https://twitter.com/_olli_"><img src="https://img.shields.io/twitter/follow/_olli_?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/oliverlohmann"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
