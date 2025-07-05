@@ -1,26 +1,38 @@
-### Hi there 👋
+# 👋 Hi, I’m **Oliver “Olli” Lohmann**
 
-## 👋 Hey I'm Oliver! 
+**Senior Cloud Solution Architect Manager – App Innovation @ Microsoft**  
+Helping organizations build modern, intelligent applications on Azure.  
+📍 Hamburg area | 🧠 Cloud | 🤖 Enterprise AI | ⚙️ Platform Engineering
 
-As my day job I work as an Cloud Solution Architect Manager at Microsoft.
+---
 
-## Let's connect on LinkedIn!
+## 💼 What I Do
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/oliverlohmann"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+At Microsoft, I lead a team of Cloud Solution Architects focused on **App Innovation**.  
+We partner with enterprise customers to:
 
-<!--
-**olohmann/olohmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Design and scale **cloud-native apps** using modern Azure architecture  
+- Accelerate **AI adoption** across business functions and software delivery  
+- Guide **legacy modernizations** to cloud native applications 
+- Implement **platform engineering practices** that enable developer self-service  
+- Build **secure, scalable foundations** for intelligent apps and AI agents
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Focus Areas
+
+- **Enterprise-Ready AI** – From copilots and LLMs to orchestrated multi-agent patterns  
+- **Cloud-Native App Design** – AKS, Azure App Services, Functions, Event Grid  
+- **Developer Productivity** – GitHub Copilot, golden paths, inner source enablement  
+- **Platform Engineering** – Secure, governed dev platforms with compliance baked in  
+- **Modernization at Scale** – Containerization, .NET/Java upgrades, API gateways
+
+--- 
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/oliverlohmann/) 
+- [GitHub](https://github.com/olohmann) 
+- [Twitter](https://twitter.com/_olli_)
+
+---
