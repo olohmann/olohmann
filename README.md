@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Oliver “Olli” or "Oli" Lohmann**
+# 👋 Hi, I’m **Oliver “Olli” Lohmann**
 
 **Senior Cloud Solution Architect Manager for Microsoft Germany's Chief Cloud Solution Architects**  
 Helping organizations build modern, intelligent applications on Azure.  
