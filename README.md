@@ -1,6 +1,6 @@
-# 👋 Hi, I’m **Oliver “Olli” Lohmann**
+# 👋 Hi, I’m **Oliver “Olli” or "Oli" Lohmann**
 
-**Senior Cloud Solution Architect Manager – App Innovation @ Microsoft**  
+**Senior Cloud Solution Architect Manager for Microsoft Germany's Chief Cloud Solution Architects**  
 Helping organizations build modern, intelligent applications on Azure.  
 📍 Hamburg area | 🧠 Cloud | 🤖 Enterprise AI | ⚙️ Platform Engineering
 
@@ -8,8 +8,9 @@ Helping organizations build modern, intelligent applications on Azure.
 
 ## 💼 What I Do
 
-At Microsoft, I lead a team of Cloud Solution Architects focused on **App Innovation**.  
-We partner with enterprise customers to:
+At Microsoft, I lead a team of Chief Cloud Solution Architects focused on **Microsoft Azure**.  
+
+We partner with our enterprise customers to:
 
 - Design and scale **cloud-native apps** using modern Azure architecture  
 - Accelerate **AI adoption** across business functions and software delivery  
