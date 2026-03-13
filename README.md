@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Oliver “Olli” Lohmann**
 
-**Senior Solution Engineering Leader for the Public Sector, Defense, Education, Health Care & Life Sciences Verticals **  
+**Senior Solution Engineering Leader for the Public Sector, Defense, Education, Health Care & Life Sciences Verticals**  
 Helping organizations build modern, intelligent applications on Azure.  
 📍 Hamburg area | 🧠 Cloud | 🤖 Enterprise AI | ⚙️ Platform Engineering
 
