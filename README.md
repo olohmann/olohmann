@@ -8,7 +8,7 @@ Helping organizations build modern, intelligent applications on Azure.
 
 ## 💼 What I Do
 
-At Microsoft, I lead a team of Chief Cloud Solution Architects focused on **Microsoft Azure**.  
+At Microsoft, I lead a team of Solution Engineers focused on ideating, designing and building solutions on top of **Microsoft Azure**.  
 
 We partner with our enterprise customers to:
 
